@@ -28,7 +28,7 @@ const questions = [
     },
     {
         type: "input",
-        message:"Contributions: Please credit any additional contributors, resources, or collaborators.",
+        message:"Contribution Guidelines: Please provide contribution guidelines if applicable.",
         name: "contributions",
     },
     {

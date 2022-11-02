@@ -110,6 +110,7 @@ function generateMarkdown(data) {
   This project is licensed under following license: [${data.license}](${renderLicenseLink(data.license)})
 
   ## Contributing 
+  If you would like to contribute to this application or package, please follow the followings applicable guidelines or the [Contributor Covenant](https://www.contributor-covenant.org/):
   ${data.contributions}
 
   ## Tests
